@@ -1,0 +1,5 @@
+# sets generator options.
+generator:
+  # sets generator features.
+  features:
+    disable_all: true
