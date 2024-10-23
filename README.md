@@ -54,3 +54,5 @@ go install github.com/oapi-codegen/oapi-codegen/v2/cmd/oapi-codegen@latest
 oapi-codegen --config=oapiconf.yaml tsp-output/@typespec/openapi3/openapi.yaml
 ```
 Спека по конфигу https://github.com/oapi-codegen/oapi-codegen/blob/main/configuration-schema.json
+
+https://ldej.nl/post/generating-go-from-openapi-3/ - статья с анализом популярных генераторов для го
